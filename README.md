@@ -9,7 +9,7 @@ I am a Data Science student at the University of Central Florida. I’m passiona
 
 ### Learning: 
 - Python libraries (NumPy, Pandas, Matplotlib, SciPy)
-- Databricks basics
+- R
 
 ### 📝 Projects: 
 -- n/a ---
