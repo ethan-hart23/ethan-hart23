@@ -13,5 +13,3 @@ I am a Data Science student at the University of Central Florida. I’m passiona
 
 ### 📝 Projects: 
 -- n/a ---
-
-Feel free to check out my repositories to see what I’m working on! My email is 
